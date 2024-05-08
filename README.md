@@ -33,15 +33,15 @@
 
 <p align="center">
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vermaaakarsh&theme=merko&hide_border=false&include_all_commits=false&count_private=false" />
- 
- <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vermaaakarsh&theme=merko&hide_border=false" />
+<img height=200  src="https://github-readme-stats.vercel.app/api?username=vermaaakarsh&theme=merko&hide_border=false&include_all_commits=false&count_private=false" />]
 
- <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaaakarsh&theme=merko&layout=pie" />
+ <img height=200  src="https://github-readme-streak-stats.herokuapp.com/?user=vermaaakarsh&theme=merko&hide_border=false" />
+
+ <img height=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaaakarsh&theme=merko&layout=pie" />
 
 </p>
 
-<img height=200 align="center"
+<img height=200
     src="https://github-readme-activity-graph.vercel.app/graph?username=vermaaakarsh&theme=merko"/>
 
 ## 🏆 GitHub Trophies
