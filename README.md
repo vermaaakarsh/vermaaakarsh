@@ -16,7 +16,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://media.giphy.com/media/yQltwC4N8nzOE1WdDW/giphy.gif?cid=790b7611r8qyokyjwhi9diui3eo06pz16kxtqhaz6keazii2&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="left" height="200" width="300" />
+<img src="https://media.giphy.com/media/yQltwC4N8nzOE1WdDW/giphy.gif" align="left" height="200" width="300" />
 
 </td></tr></table>
 
