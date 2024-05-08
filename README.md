@@ -33,7 +33,7 @@
 
 <p align="center">
 
-<img height=200  src="https://github-readme-stats.vercel.app/api?username=vermaaakarsh&theme=merko&hide_border=false&include_all_commits=false&count_private=false" />]
+<img height=200  src="https://github-readme-stats.vercel.app/api?username=vermaaakarsh&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />]
 
  <img height=200  src="https://github-readme-streak-stats.herokuapp.com/?user=vermaaakarsh&theme=merko&hide_border=false" />
 
@@ -48,6 +48,12 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=vermaaakarsh&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repositories
 
 ![](https://github-contributor-stats.vercel.app/api?username=vermaaakarsh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 🔝 Top Repository
+
+<div width="100%" align="center"><a href="https://github.com/vermaaakarsh/Quiz-App-REST-API-TS-Mongoose" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedazharsabri&repo=Quiz-App-REST-API-TS-Mongoose&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br >
