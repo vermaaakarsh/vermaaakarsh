@@ -37,7 +37,7 @@
 
  <img height=200  src="https://github-readme-streak-stats.herokuapp.com/?user=vermaaakarsh&theme=merko&hide_border=false" />
 
- <img height=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaaakarsh&theme=merko&layout=pie" />
+ <img height=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaaakarsh&theme=merko&layout=pie&hide_border=false&include_all_commits=true&count_private=true" />
 
 </p>
 
