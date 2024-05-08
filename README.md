@@ -1,4 +1,4 @@
-![banner1](https://github.com/sayedazharsabri/sayedazharsabri/assets/71922989/4528539f-c949-481e-a933-68c8bc839873)
+![banner1](assets/banner.png)
 
 [![](https://visitcount.itsvg.in/api?id=vermaaakarsh&icon=5&color=3)](https://visitcount.itsvg.in)
 
