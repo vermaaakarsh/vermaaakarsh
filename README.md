@@ -1,7 +1,5 @@
 ![banner1](assets/banner.png)
 
-[![](https://visitcount.itsvg.in/api?id=vermaaakarsh&icon=5&color=3)](https://visitcount.itsvg.in)
-
 ## Rapid-fire
 
 <table><tr><td valign="top" width="50%">
@@ -33,11 +31,11 @@
 
 <p align="center">
 
-<img height=200  src="https://github-readme-stats.vercel.app/api?username=vermaaakarsh&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />]
+<img height=200  src="https://github-readme-stats.vercel.app/api?username=vermaaakarsh&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
 
  <img height=200  src="https://github-readme-streak-stats.herokuapp.com/?user=vermaaakarsh&theme=merko&hide_border=false" />
 
- <img height=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaaakarsh&theme=merko&layout=pie&hide_border=false&include_all_commits=true&count_private=true" />
+ <img height=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaaakarsh&theme=merko&layout=pie&hide_border=false" />
 
 </p>
 
