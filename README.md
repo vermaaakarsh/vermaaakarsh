@@ -31,27 +31,26 @@
 
 <p align="center">
 
-<img height=200  src="https://github-readme-stats.vercel.app/api?username=vermaaakarsh&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
+![](https://github-readme-stats.vercel.app/api?username=vermaaakarsh&theme=merko&hide_border=false&include_all_commits=true&count_private=true&hide_title=true&show_icons=true&show=reviews,prs_merged_percentage)</br>
 
- <img height=200  src="https://github-readme-streak-stats.herokuapp.com/?user=vermaaakarsh&theme=merko&hide_border=false" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=vermaaakarsh&theme=merko&hide_border=false)</br>
 
- <img height=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaaakarsh&theme=merko&layout=pie&hide_border=false" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vermaaakarsh&theme=merko&layout=pie&hide_border=false)</br>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=vermaaakarsh&theme=merko)
 
 </p>
 
-<img height=200
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vermaaakarsh&theme=merko"/>
-
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=vermaaakarsh&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vermaaakarsh&theme=matrix&no-frame=false&no-bg=true&margin-w=6)
 
 ### 🔝 Top Contributed Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=vermaaakarsh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=vermaaakarsh&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_title=true)
 
 ### 🔝 Top Repository
 
-<div width="100%" align="center"><a href="https://github.com/vermaaakarsh/Quiz-App-REST-API-TS-Mongoose" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sayedazharsabri&repo=Quiz-App-REST-API-TS-Mongoose&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+![](https://github-readme-stats.vercel.app/api/pin/?username=sayedazharsabri&repo=Quiz-App-REST-API-TS-Mongoose&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)
 
 <br /><br /><br /><br >
