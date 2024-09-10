@@ -1,4 +1,4 @@
-![banner1](assets/banner.png)
+![banner1](assets/banner.jpeg)
 
 ## Rapid-fire
 
