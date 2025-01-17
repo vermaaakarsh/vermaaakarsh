@@ -4,11 +4,9 @@
 
 <table><tr><td valign="top" width="50%">
 
-- 📫 How to reach me **vaakarshofficial@gmail.com**
+- 📫 How to reach me **developer.aakarshverma@gmail.com**
 
-- 🔭 I’m currently building [TriwebAPI](https://www.triwebapi.com/)
-
-- 🌱 I’m currently learning Cloud Infrastructure
+- 🔭 I’m currently building [SinQlarity](https://beta.sinqlarity.com/)
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
